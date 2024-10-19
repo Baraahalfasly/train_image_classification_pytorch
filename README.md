@@ -23,3 +23,7 @@ data--
           - water_can
           - notebook
 ```
+
+Result samples:
+
+![](results.png)
